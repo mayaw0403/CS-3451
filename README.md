@@ -1,1 +1,1 @@
-# CS-3451
+CS3451 offers a comprehensive introduction to computer graphics, covering topics such as the GPU pipeline, procedural modeling, character animation, and ray-tracing rendering. Coursework includes programming assignments, quizzes, and projects focused on creating interactive applications using OpenGL and modern GPU rendering pipelines.
